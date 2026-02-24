@@ -1,19 +1,19 @@
-# xrp-node.com_Crypto_Wallet_Phishing_and_Drainer_Scam
-This repository documents the xrp-node.com crypto scam promoted through YouTube ads and videos. The site falsely claims users can earn passive XRP income by connecting wallets or running a “node,” but instead deploys phishing tactics and wallet-draining scripts that steal cryptocurrency from victims.
-## Overview
-Brief explanation of the scam.
+Professional Case Study Summary
 
-## How the Scam Works
-Step-by-step breakdown.
+Conducted independent analysis of a cryptocurrency phishing campaign promoted through YouTube advertising involving the domain xrp-node.com.
 
-## Indicators of Compromise
-- Domain: xrp-node.com
-- YouTube ads promoting it
-- Requests to connect wallet
-- Copy-paste “node” code
+Identified social engineering tactics designed to lure victims into connecting cryptocurrency wallets under the false promise of passive XRP income. 
+Analyzed wallet connection prompts and transaction approval mechanisms consistent with crypto wallet drainer operations.
 
-## Risk
-Wallet draining and credential theft.
+Mapped observed behaviors to MITRE ATT&CK techniques including:
 
-## Reporting
-Encourage users to report the domain and videos.
+T1566 – Phishing
+
+T1204 – User Execution
+
+T1056 – Input Capture / Credential Harvesting
+
+T1189 – Drive-by Compromise
+
+Performed risk assessment, documented indicators of compromise, and executed coordinated reporting actions. 
+Published structured findings to increase awareness and demonstrate applied threat analysis methodology.
